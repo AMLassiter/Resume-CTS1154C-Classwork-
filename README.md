@@ -54,4 +54,4 @@ in the Chicago, IL and Detroit/Dearborn, MI areas.
 ##Connect With Me
 - LinkedIn: [www.linkedin.com/in/andrine-lassiter-17a60464]
 - Email: [melvinalassiter@outlook.com]
-- Location: Detroit/Dearborn, MI or Chicago,IL (relocating August 2026)
+- Location: Detroit/Dearborn, MI (relocating August 2026)
