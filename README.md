@@ -25,7 +25,8 @@ Cybersecurity professional with CompTIA Security+ and Google Cybersecurity Profe
 ## Featured Projects
 - [Resume](./AM_Lassiter_Resume.pdf) - Professional resume
 - [Nintendo Wii Hard Drive Replacement](./wii-hard-drive-replacement/) - Hardware disassembly and internal storage replacement procedure for a Nintendo Wii console
-- [Rename a PC](https://github.com/AMLassiter/windows-admin-labs/tree/main/lab-01-post-install-config) - Windows post-install system settings configuration 
+- [Rename a PC](https://github.com/AMLassiter/windows-admin-labs/tree/main/lab-01-post-install-config) - Windows post-install system settings configuration
+- [Configure Windows Update](https://github.com/AMLassiter/Resume-CTS1154C-Classwork-/blob/57a3d37fe4298d57d6b1c240b5d32b416647f9ba/lab-02-post-install-config.README.md)
 - [Command Line Toolkit](#) - Windows CMD & PowerShell reference scripts (coming soon)
 - [Windows Admin Labs](#) - System administration & diagnostic tools documentation (coming soon)
 - [Hardware Troubleshooting](#) - Component identification & repair guides (coming soon)
