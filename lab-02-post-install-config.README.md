@@ -21,6 +21,7 @@ Document a complete Windows post-installation setup as a technician would for a 
 ![image alt](https://github.com/AMLassiter/Resume-CTS1154C-Classwork-/blob/206187a5030e7affd9d87cabcddb338305fdc65a/WPIC%20Step%202.4.png)
 9. Review the setting for Allow downloads from other PCs — this controls whether the PC downloads updates from other devices on the local network (saves bandwidth) or only from Microsoft.
 10. Screenshot: Capture the Advanced options page showing active hours and the Delivery Optimization settings.
+![image alt](
 
 
 Why this matters: Unmanaged updates can restart a workstation during a presentation or critical task. Setting active hours and delivery optimization are standard steps in any enterprise deployment.
