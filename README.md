@@ -23,7 +23,7 @@ Cybersecurity professional with CompTIA Security+ and Google Cybersecurity Profe
 | Support  | Help Desk, Technical Writing, Troubleshooting Methodology      |
 
 ## Featured Projects
-- [Resume](./AM_Lassiter_Resume.pdf) - Professional resume
+- [Resume]([./AM_Lassiter_Resume.pdf](https://github.com/AMLassiter/Resume-CTS1154C-Classwork-/blob/1b2a0330d0727e0ce84f0778878ffe2abbf7d337/resume%20(1).pdf)) - Professional resume
 - [Nintendo Wii Hard Drive Replacement](./wii-hard-drive-replacement/) - Hardware disassembly and internal storage replacement procedure for a Nintendo Wii console
 - [Rename a PC](https://github.com/AMLassiter/windows-admin-labs/tree/main/lab-01-post-install-config) - Windows post-install system settings configuration
 - [Configure Windows Update](https://github.com/AMLassiter/Resume-CTS1154C-Classwork-/blob/57a3d37fe4298d57d6b1c240b5d32b416647f9ba/lab-02-post-install-config.README.md) - Windows post-install sytem settings configuration.
