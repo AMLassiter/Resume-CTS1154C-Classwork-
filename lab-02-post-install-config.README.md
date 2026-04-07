@@ -1,6 +1,3 @@
-# windows-admin-labs
-Document a complete Windows post-installation setup as a technician would for a new workstation deployment. This demonstrates my ability to configure a fresh Windows installation to organizational standards.
-
 #### Document a complete Windows post-installation setup as a technician would for a new workstation deployment. 
 
 #### Tools Used
@@ -19,9 +16,10 @@ Document a complete Windows post-installation setup as a technician would for a 
 
 5. Scroll down to Delivery Optimization and click it.
 ![image alt](https://github.com/AMLassiter/Resume-CTS1154C-Classwork-/blob/206187a5030e7affd9d87cabcddb338305fdc65a/WPIC%20Step%202.4.png)
-9. Review the setting for Allow downloads from other PCs — this controls whether the PC downloads updates from other devices on the local network (saves bandwidth) or only from Microsoft.
-10. Screenshot: Capture the Advanced options page showing active hours and the Delivery Optimization settings.
-![image alt](
+
+6. Review the setting for Allow downloads from other PCs — this controls whether the PC downloads updates from other devices on the local network (saves bandwidth) or only from Microsoft.
+7. Screenshot: Capture the Advanced options page showing active hours and the Delivery Optimization settings.
+![image alt](https://github.com/AMLassiter/Resume-CTS1154C-Classwork-/blob/205da9d752611003220d3671f5ac169239470ead/WPIC%20Step%202.5.png)
 
 
 Why this matters: Unmanaged updates can restart a workstation during a presentation or critical task. Setting active hours and delivery optimization are standard steps in any enterprise deployment.
