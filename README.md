@@ -1,7 +1,7 @@
 # Resume
 Cybersecurity Analyst | CompTIA Security+ | Networking, Systems Admin &amp; Incident Response | Open to opportunities in Chicago,IL or Detroit/Dearborn, MI
 # Hi, I'm A.M. Lassiter 👋
-Cybersecurity Professional | IT Support Specialist | Former STEM Educator
+Cybersecurity Professional | Network Support Technician | IT Support Specialist | Former STEM Educator (Science, Technology. & Math)
 
 ## About Me
 Cybersecurity professional with CompTIA Security+ and Google Cybersecurity Professional Certificate. Completing CompTIA A+ coursework, Cisco CCNA networking, and server configuration at FLorida State College at Jacksonville. 14 years of analytical thinking, communication, and problem-solving expertise from STEM education.
