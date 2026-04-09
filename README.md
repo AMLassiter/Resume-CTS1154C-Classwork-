@@ -11,7 +11,7 @@ Cybersecurity professional with CompTIA Security+ and Google Cybersecurity Profe
 - Google Cybersecurity Professional Certificate
 - Google IT Support Professional Certificate (In-Progress)
 - UNF AI for Work and Life Certification
-- Florida Professiona Teaching Certificate (Grades 5-9, Math & Science)
+- Florida Professional Teaching Certificate (Grades 5-9, Math & Science)
 
 ## Technical Skills
 | Category | Tools & Technologies |
